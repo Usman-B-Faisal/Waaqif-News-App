@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+beautifulsoup4
+langchain
+newspaper3k
+python-multipart
+pydantic
+llama-index
